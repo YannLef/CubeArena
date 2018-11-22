@@ -1,4 +1,4 @@
-# CubeArena
+# SquareArena
 Processing project that I made for fun and moreover to learn more about this language.
 
 The game is a 1V1 game where players have to play on the same keyboard.
